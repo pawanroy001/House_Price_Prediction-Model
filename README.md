@@ -4,5 +4,6 @@ in this project i trained a model using regression to predict the price of house
 2. yearBuilt
 3. BHK
 4. HouseStyle
-5. OverallQuality (1-10)
+5. OverallQuality (1-10).
+
 improvement  in this project is going on.
